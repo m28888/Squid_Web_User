@@ -1,0 +1,36 @@
+@font-face {
+    font-family: Gotham;
+    src: url(../assets/fonts/GothamProRegular.ttf);
+
+}
+body, html {
+	background-image: url("../assets/images/Squid Mobile BG.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: Gotham;
+    height: 100%;
+    background-position: center;
+    
+}
+
+.rcorners1 {
+    border-radius: 25px;
+    background: #C71585;
+    padding: 20px; 
+    width: 200px;
+    height: 60px; 
+    margin-left: 42.5%;
+    margin-top: -58.5%;
+}
+
+
+.fontz {
+	color: white;
+	margin-top: -2.5%;
+	margin-left: 17%;
+}
+
+.bgpic {
+	margin-top: -10%;
+	margin-left: 23%;
+}

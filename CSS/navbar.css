@@ -1,0 +1,57 @@
+@font-face {
+    font-family: Gotham;
+    src: url(../assets/fonts/GothamProRegular.ttf);
+
+}
+/* NAVBAR DESIGN */
+
+
+.navbar {
+	background-image: url("../assets/images/Squid Mobile BG.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.navbar-nav{
+	padding-top:2% ; 
+	padding-bottom:2%;
+	padding-left: 5%;
+}
+
+.navbar ul li a:focus {
+ 
+  text-decoration: none;
+ 
+}
+.navbar ul li a:hover {
+  color: white;
+  background-color: transparent;
+
+}
+.navbar-nav > li > a{
+	color: white;
+	font-weight: bold;
+	font-size: 15px;
+	font-family: Gotham;
+}
+
+.light_violet, .light_violet a {
+	background-color: #595788;
+	color: white;
+	font-family: Gotham;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.violet, .violet a {
+	background-color: #333365;
+	color: white;
+	font-family: Gotham;
+	font-weight: bold;
+	text-decoration: none;
+	
+}
+
+
+
+
